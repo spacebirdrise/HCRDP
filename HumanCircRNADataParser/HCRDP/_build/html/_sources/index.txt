@@ -1,0 +1,21 @@
+Welcome to HumanCircRNADataParser's documentation!
+==================================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+.. autoclass:: hcrdp.DataParser
+   :members:
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+
+
+
